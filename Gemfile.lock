@@ -1,0 +1,17 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    byebug (9.0.6)
+    power_assert (1.0.2)
+    test-unit (3.2.4)
+      power_assert
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  byebug
+  test-unit
+
+BUNDLED WITH
+   1.14.6
